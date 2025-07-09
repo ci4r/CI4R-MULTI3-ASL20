@@ -1,4 +1,4 @@
-# 20-words_ASL_multi-RF_Dataset
+# CI4R-MULTI3-ASL20
 
 This repository contains the data used in the paper entitled "American Sign Language Recognition Using RF Sensing".
 
